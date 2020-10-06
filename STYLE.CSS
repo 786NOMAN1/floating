@@ -1,0 +1,25 @@
+
+/* .Container{
+    background-color: hotpink;
+    display: flex;
+    justify-content: space-around;
+} */
+.subcontainer1{ 
+    background-color: rgb(38, 223, 21);
+width: 20%;
+float: right;
+
+}
+
+.subcontainer2{ 
+    background-color: rgb(192, 189, 28);
+width: 60%;
+height: 133px;
+float: left;
+}
+
+.subcontainer3{ 
+    background-color: rgb(36, 173, 162);
+    width: 20%;
+float: right;
+}
